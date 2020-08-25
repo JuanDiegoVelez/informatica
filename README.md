@@ -1,2 +1,2 @@
 # informatica
-Repositorio de archivos de informatica
+Repositorio para el almacenamiento documentos de informatica
